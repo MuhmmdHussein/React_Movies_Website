@@ -1,0 +1,16 @@
+.form-container {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 20px;             /* Some padding for spacing */
+    border-radius: 5px;        /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin: 20px 0;            /* Margin for spacing */
+  }
+  
+  .form-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;       /* Space between form groups */
+  }
